@@ -196,8 +196,9 @@ section h1 {
 
 #boxes {
 	background: url(../img/boxes.jpg) no-repeat center;
-	height: 820px;
-	background-size: cover;
+	padding-top: 140px;
+	height: 1000px;
+	background-size: contain;
 }
 #boxes h1 {
 	text-align: center;	
