@@ -409,6 +409,9 @@ section h1 {
 #social a {
 	color: #00aff0;
 }
+#social a:hover {
+	text-decoration: none;
+}
 @media (max-width: 900px) {
 	#advertising {
   		background-image: none;
