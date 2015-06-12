@@ -401,6 +401,12 @@ section h1 {
 	color: #fff;
 	border-color: #fff;	
 }
+#social {
+	padding-top:50px;
+}
+#social a {
+	color: #262626;
+}
 @media (max-width: 900px) {
 	#advertising {
   		background-image: none;
