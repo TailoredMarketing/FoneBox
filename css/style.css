@@ -105,7 +105,7 @@ h1 {
 	overflow:auto;
 }
 #header.scroll, #header.inner {
-	background-color: rgba( 0,0,0,0.7 );	
+	background-color: rgba( 0,0,0,0.85 );	
 }
 
 .navbar-brand {
@@ -406,7 +406,7 @@ section h1 {
 	font-size: 1.3em;
 }
 #social a {
-	color: #262626;
+	color: #00aff0;
 }
 @media (max-width: 900px) {
 	#advertising {
