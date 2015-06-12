@@ -366,8 +366,7 @@ section h1 {
 .inlineul li {
 	display: inline-block;
 	padding: 37px;
-	background-color: #fcfcfc;
-	border: solid 3px #f7f7f7;
+	
 	margin: 15px;	
 }
 #newsletter {
