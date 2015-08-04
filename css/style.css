@@ -195,7 +195,7 @@ section h1 {
 }
 
 #boxes {
-	background: url(../img/boxes.jpg) no-repeat center;
+	background: url(../img/boxes-dark.jpg) no-repeat center;
 	padding-top: 140px;
 	height: 1000px;
 	background-size: contain;
